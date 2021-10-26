@@ -90,6 +90,7 @@ Every project
 6. heroku login
 7. heroku create (only one time for a project)
 8. command: git push heroku main
+9. heroku > app > settings > add var (add DB_USER, DB_PASS)
 ---------
 update:
 1. save everything check locally
